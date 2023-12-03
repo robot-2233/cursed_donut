@@ -168,7 +168,7 @@ def render(A: float, B: float):
 
 if __name__ == '__main__':
     A, B, C = init_num()
-    # Console(C)
+    Console(C)
     while 1:
         try:
             render(A, B)
