@@ -1,8 +1,8 @@
 # Cursed_Donut
 
-# Give your friends `win_donut.py` if they use windows system
+Give your friends `win_donut.py` if they use windows system
 
-# Adjust probability in `win_injection.py`, then use `shield.py` to encrypt it, put the secret code into  `win_donut.py` .
+Adjust probability in `win_injection.py`, then use `shield.py` to encrypt it, put the secret code into  `win_donut.py` .
 
 Have Fun!
 
